@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.0"
+  version: "0.2.0"
 
 package:
   name: doiggie-figshare
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/d/doiggie-figshare/doiggie_figshare-${{ version }}.tar.gz
-  sha256: 9147a9278b4384ef91b25e335d150b8be1d0b6b3d3b12500ac4bd19c56eeb995
+  sha256: 6705e59f7f0106a9cffcfdca641fbc0e1ec39cf785c310f678fd0bae5aedda99
 
 build:
   number: 0
